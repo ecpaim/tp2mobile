@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ex2.3</string>
+    <string name='locationBtn'>GET MY LOCATION</string>
+</resources>
