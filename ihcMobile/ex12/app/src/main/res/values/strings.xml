@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ex1.2</string>
+    <string name='msg'>Escreva uma mensagem</string>
+    <string name='enviar'>Enviar</string>
+</resources>

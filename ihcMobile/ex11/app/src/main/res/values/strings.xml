@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ex1.1</string>
+    <string name='customHello'>hello wrld</string>
+    <string name='addButton'>Add</string>
+</resources>
